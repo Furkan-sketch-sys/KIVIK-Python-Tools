@@ -32,3 +32,6 @@ Language: Python 3
 Concepts: Basic Functions, Loops, If/Else Conditions
 
 '''
+### ❓ 3. Quiz App
+* **File:** `quiz_application.py`
+* **Description:** A simple Python quiz program made with OOP. It asks questions, checks answers, and shows your score at the end.
