@@ -23,10 +23,12 @@ Simple Python programs and console games to learn coding basics.
 
 ```bash
 python dying_light_game.py
-'''
+
 
 
 🛠️ Tools Used
 Language: Python 3
 
 Concepts: Basic Functions, Loops, If/Else Conditions
+
+'''
