@@ -14,6 +14,9 @@ Simple Python programs and console games to learn coding basics.
 * **File:** `calculator.py`
 * **Description:** A simple terminal calculator for basic math (+, -, *, /) with simple error checks.
 
+### ❓ 3. Quiz App
+* **File:** `quiz_application.py`
+* **Description:** A simple Python quiz program made with OOP. It asks questions, checks answers, and shows your score at the end.
 ---
 
 ## 🚀 How to Run
@@ -22,8 +25,9 @@ Simple Python programs and console games to learn coding basics.
 2. Run any project with Python:
 
 ```bash
-python dying_light_game.py
-
+dying_light_game.py and dy_sımulator.py
+calculator.py
+quiz_application.py
 
 
 🛠️ Tools Used
@@ -32,6 +36,3 @@ Language: Python 3
 Concepts: Basic Functions, Loops, If/Else Conditions
 
 '''
-### ❓ 3. Quiz App
-* **File:** `quiz_application.py`
-* **Description:** A simple Python quiz program made with OOP. It asks questions, checks answers, and shows your score at the end.
