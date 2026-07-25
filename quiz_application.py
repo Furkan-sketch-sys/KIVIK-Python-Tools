@@ -52,7 +52,7 @@ class Quiz() :
 
 
 q1 = Question("TSK'nin acilimi nedir?" , [" A) Türk Silahli Kuvvetleri" , "B) Türk Hava Kuvvetleri " , "C) Türk Deniz Kuvvetleri" , "D) Özel Kuvvetler Komutanliği"] , "A")
-q2 = Question("Ethan has 5 pencil in his hand . If he gives his 2 pencil to his friend - Matt- , how many left pencil in his hand?" , ["A ) 5" , "B ) 4" , "C ) 1" , "D ) 3"] , "D")
+q2 = Question("Ethan has 5 pencil in his hand . If he gives his 2 pencil to his friend - Matt- , how many does he have left in his hand?" , ["A ) 5" , "B ) 4" , "C ) 1" , "D ) 3"] , "D")
 q3 = Question("The year : 2008 , Emma who is a child 10 years old wants to calculate her age in 2001. What's her age in 2001?" , ["A ) 5" ,"B) 3" , "C ) 10" , " D ) 6" ] , "B")
 
 questions = (q1 , q2 , q3)
