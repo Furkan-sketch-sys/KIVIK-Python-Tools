@@ -61,5 +61,5 @@ while p1.health > 0 and z1.health > 0 :
     else :
         print(f"\n Invalid choice!")
 
-    if p1.health < 0 :
+    if p1.health <= 0 :
         print(f"\n You dead.... Zombies killed you. Maybe next time.")
